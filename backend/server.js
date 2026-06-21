@@ -1,2 +1,3 @@
 const express = require("express");
-const cors = 
+const cors = require("cors");
+const dotenv = rqeuire("dotenv");
